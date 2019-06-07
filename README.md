@@ -31,4 +31,4 @@ Lojistisyen.net api service written in nodejs. It is available as open source co
 ```
 
 ---
-Made with ♥ by Konstantin Tarkus ([@mrozdev](https://twitter.com/mrozdev), [blog](https://mbarkin.com)) and [@mrozdev](https://github.com/mrozdev)
+Made with ♥ by Melih Özdemir ([@mrozdev](https://twitter.com/mrozdev), [blog](https://mbarkin.com)) and [@mrozdev](https://github.com/mrozdev)
