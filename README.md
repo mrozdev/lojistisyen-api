@@ -18,7 +18,7 @@ Lojistisyen.net api service written in nodejs. It is available as open source co
         "/api/durumlar": "get all walls",
         "/api/durum/yeni/:userId": "create new wall",
         "/api/durumlar/yazar/:userId": "get walls by user",
-        "/api/durum/:postId": "update/delete post"
+        "/api/durum/:postId": "update/delete wall"
 ```
 
 ## Installing
