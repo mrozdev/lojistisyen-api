@@ -5,7 +5,6 @@ Lojistisyen.net api service written in nodejs. It is available as open source co
 ## API Learning
 
 ```bash
-        "/api": "api docs",
         "/api/kaydol": "signup",
         "/api/giris": "signin",
         "/api/cikis": "signout",
