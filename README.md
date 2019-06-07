@@ -23,11 +23,11 @@ Lojistisyen.net api service written in nodejs. It is available as open source co
 ## Installing
 
 ```bash
-   git clone https://github.com/kriasoft/lojistisyen-api.git example-api
+   git clone https://github.com/mrozdev/lojistisyen-api.git example-api
    cd example-api                  # Change current directory to the newly created one
    npm install
    npm run dev                     # Node.js API app run inside
 ```
 
 ---
-Made with ♥ by Melih Özdemir ([@mrozdev](https://twitter.com/mrozdev), [blog](https://mbarkin.com)) and [@mrozdev](https://github.com/mrozdev)
+Made with ♥ by Melih Özdemir ([@mrozdev-sorcial.com](https://sorcial.com/mrozdev)
